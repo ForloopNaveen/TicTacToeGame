@@ -57,10 +57,10 @@
     font-size: 23px;
   }
   .board {
-    margin-left: 40px;
-    margin-top: 50px;
-    height: 300px;
-    width: 164px;
+    margin-left: 50px;
+    margin-top: 70px;
+    height: 400px;
+    width: 200px;
     padding-bottom: 20px;
   }
   .boxes {
