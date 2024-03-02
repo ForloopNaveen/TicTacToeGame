@@ -157,7 +157,7 @@ export const TicTacToe = () => {
         className="reset"
        onClick={()=>{reset()}}
       >
-        Resert
+        Reset
       </button>
     </div>
   );
